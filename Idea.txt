@@ -1,0 +1,24 @@
+A text file for each day.
+Starting with serial number for ordering, then give a field for things to be done and notify it the next day when we log in.
+
+Also include a diary section with maybe categorisation based on NLP?. Which can be encrypted . Would be damn cool. Please do it mister developer
+
+Things to learn: 
+handling file pointers in a stack ds.
+Password verification from a database
+Encryption of both passwords as well as journal
+Using git to keep track of version
+NLP to classify days as good or bad.
+Possible internet/cloud connectivity (maaybe docker) 
+Learn Gui on c. Or do it in python. Maybe a photo each day as well
+Check how to make a program run automatically for a new unique file extension
+
+#include<stdio.h>
+
+Int main()
+{
+ printf("enter username and password: ")
+ scanf(u, p)
+ If(verify (u,p)==1)
+
+ 
